@@ -66,9 +66,9 @@ class BorderPresetManager:
                         0
                     ],
                     "signature_options": {
-                        "first_half_text": "YOYO",
+                        "first_half_text": "Enter",
                         "first_half_font_size": "60",
-                        "second_half_text": "LUMI",
+                        "second_half_text": "Here",
                         "second_half_font_size": "72",
                         "first_half_color": "#cdf9ff",
                         "second_half_color": "#459dcc",
